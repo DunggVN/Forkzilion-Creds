@@ -1,6 +1,6 @@
 Go to https://github.com/DunggVN/forkzilion-wf-example and fork that repo
 
-clone this repo and make it private
+Import this repo and make it private
 
 go to ur fork repo link /settings/secrets/actions and add some secrets
 ```
