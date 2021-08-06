@@ -20,5 +20,3 @@ GITHUB_TOKEN = Your Github Personal Access Token
 Follow me on [Github](https://github.com/DunggVN) Please 😂😂😂
 
 Credits:- @DunggVN
-
-TG:- [Link Soon]()
