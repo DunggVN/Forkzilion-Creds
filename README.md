@@ -1,4 +1,4 @@
-Go to https://github.com/TechiError/ultroid-wf-example and fork that repo
+Go to https://github.com/DunggVN/forkzilion-cred-example and fork that repo
 
 clone this repo and make it private
 
@@ -12,9 +12,9 @@ GH_TOKEN = Ur Github Personal Access Token
 
 Go to your Wfs forked repo and go to actions tab and voila Enjoy xD
 
-Follow me on [Github](https://github.com/TechiError) Please    🥺
+Follow me on [Github](https://github.com/DunggVN) Please    🥺
 👉👈
 
-Credits:- @TechiError
+Credits:- @DunggVN
 
-TG:- [Here](https://telegram.dog/ProgrammingError)
+TG:- [No]()
