@@ -1,4 +1,4 @@
-Go to https://github.com/DunggVN/forkzilion-cred-example and fork that repo
+Go to https://github.com/DunggVN/forkzilion-wf-example and fork that repo
 
 clone this repo and make it private
 
