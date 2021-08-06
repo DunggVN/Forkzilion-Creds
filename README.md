@@ -1,4 +1,4 @@
-#How To Deploy Forkzilion on Github Workflow
+# How To Deploy Forkzilion on Github Workflow
 1. Go to [Workflow Repo](https://github.com/DunggVN/forkzilion-wf-example)
 2. Fork that repo
 3. Copy this (Creds Repo) repo link
