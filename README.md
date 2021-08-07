@@ -18,5 +18,3 @@ GITHUB_TOKEN = Your Github Personal Access Token
 10. Go to your Workflow Forked Repo and click Action > Select Workflow > Forkzilion Workflow > Run
 
 Follow me on [Github](https://github.com/DunggVN) Please 😂😂😂
-
-Credits:- @DunggVN
