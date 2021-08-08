@@ -10,9 +10,9 @@
 9. Value:
 ```
 CREDS = Link of The Repo you Imported (Remove https://)(Make sure it's private)(Change the values of config.env)
-GITHUB_NAME = Your Github Username
-GITHUB_MAIL = Your Github Email
-GITHUB_TOKEN = Your Github Personal Access Token
+GH_NAME = Your Github Username
+GH_MAIL = Your Github Email
+GH_TOKEN = Your Github Personal Access Token
 ```
 
 10. Go to your Workflow Forked Repo and click Action > Select Workflow > Forkzilion Workflow > Run
