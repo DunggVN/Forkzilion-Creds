@@ -23,7 +23,11 @@ How to take Personal Access Token:
 3. Go to Developer Setting
 4. Click Personal Access Token
 5. Generate new token
-6. Fill the notes (whatever u want) and select
+6. Fill the notes (whatever u want) and select these scope:
++ repo
++ workflow
+7. Generate
+8. Copy that token
 ```
 
 10. Go to your Workflow Forked Repo and click Action > Select Workflow > Forkzilion Workflow > Run
