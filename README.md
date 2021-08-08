@@ -22,7 +22,8 @@ How to take Personal Access Token:
 2. Go to Setting
 3. Go to Developer Setting
 4. Click Personal Access Token
-5. Gene
+5. Generate new token
+6. Fill the notes (whatever u want) and select
 ```
 
 10. Go to your Workflow Forked Repo and click Action > Select Workflow > Forkzilion Workflow > Run
