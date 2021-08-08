@@ -6,7 +6,7 @@
 5. Click Import, then paste link of this repo there
 6. Type the Repo Name and Choose Private Option then click Import
 7. Now go to Workflow Repo then click Setting > Secrets > New repo secret
-8. Create 4 Secret: CREDS, GITHUB_NAME, GITHUB_MAIL, GITHUB_TOKEN
+8. Create 4 Secret: CREDS, GH_NAME, GH_MAIL, GH_TOKEN
 9. Value:
 ```
 CREDS = Link of The Repo you Imported (Remove https://)(Make sure it's private)(Change the values of config.env)
