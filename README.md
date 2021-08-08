@@ -17,6 +17,7 @@ Make Sure:
 GH_NAME = Your Github Username
 GH_MAIL = Your Github Email
 GH_TOKEN = Your Github Personal Access Token
+How to take Personal Access Token:
 ```
 
 10. Go to your Workflow Forked Repo and click Action > Select Workflow > Forkzilion Workflow > Run
