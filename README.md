@@ -36,5 +36,6 @@ How to take Personal Access Token:
 
 ### How to fill vars in config.env ?
 You can see some example [here](https://github.com/DunggVN/ProjectFizilion/blob/pruh/sample_config.env)
+Don't fill vars on that file 😂😂😂
 
 Follow me on [Github](https://github.com/DunggVN) Please 😂😂😂
