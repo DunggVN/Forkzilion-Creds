@@ -34,4 +34,11 @@ How to take Personal Access Token:
 
 10. Go to your Workflow Forked Repo and click Action > Select Workflow > Forkzilion Workflow > Run
 
-Follow me on [Github](https://github.com/DunggVN) Please 😂😂😂
+### How to fill vars in config.env ?
+You can see some example [here](https://github.com/DunggVN/ProjectFizilion/blob/pruh/sample_config.env)
+- Notes:
++ Don't fill vars on that file 😂😂😂
+
+## Credits
+- Thanks to [@AbOuLfOoOoOuF](https://github.com/AbOuLfOoOoOuF) for Forkzilion Userbot
+- Thanks to [@Pewdeadcake](https://github.com/Pewdeadcake) for Test Github Deploy Repo
