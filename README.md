@@ -1,11 +1,13 @@
 # How To Deploy Forkzilion on Github Workflow
-1. Go to [Workflow Repo](https://github.com/DunggVN/forkzilion-wf-example)
-2. Fork that repo
-3. Copy this (Forkzilion-Creds Repo) repo link
-4. Go to repo tab, click new
-5. Click Import, then paste link of this repo there
-6. Type the Repo Name and Choose Private Option then click Import
-7. Now go to Workflow Repo then click Setting > Secrets > New repo secret
+1. Copy this (Forkzilion-Creds Repo) repo link
+2. Go to repo tab, click new
+3. Click Import, then paste link of this repo there
+4. Type the Repo Name and Choose Private Option then click Import
+5. Choose Forkzilion Version:
+- [Normal](https://github.com/DunggVN/Forkzilion-Workflows)
+- [SuperLight](https://github.com/DunggVN/Forkzilion-Workflows/tree/pruhsuperlight)
+6. Fork that repo
+7. In Workflows Repo click Setting > Secrets > New repo secret
 8. Create 4 Secret: CREDS, GH_NAME, GH_MAIL, GH_TOKEN
 9. Value:
 ```
