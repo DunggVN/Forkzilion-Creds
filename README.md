@@ -40,5 +40,5 @@ You can see some example [here](https://github.com/DunggVN/ProjectFizilion/blob/
 + Don't fill vars on that file 😂😂😂
 
 ## Credits
-- Thanks to [@AbOuLfOoOoOuF]() for Forkzilion Userbot
-- Thanks to [@Pewdeadcake]() for Test Github Deploy Repo
+- Thanks to [@AbOuLfOoOoOuF](https://github.com/AbOuLfOoOoOuF) for Forkzilion Userbot
+- Thanks to [@Pewdeadcake](https://github.com/Pewdeadcake) for Test Github Deploy Repo
