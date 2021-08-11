@@ -42,3 +42,4 @@ You can see some example [here](https://github.com/DunggVN/ProjectFizilion/blob/
 ## Credits
 - Thanks to [@AbOuLfOoOoOuF](https://github.com/AbOuLfOoOoOuF) for Forkzilion Userbot
 - Thanks to [@Pewdeadcake](https://github.com/Pewdeadcake) for Test Github Deploy Repo
+- Thanks to [@TechiError](https://github.com/TechiError) for Original Github Deploy Repo
