@@ -34,4 +34,7 @@ How to take Personal Access Token:
 
 10. Go to your Workflow Forked Repo and click Action > Select Workflow > Forkzilion Workflow > Run
 
+### How to fill all vars ?
+You can see some example about [here]
+
 Follow me on [Github](https://github.com/DunggVN) Please 😂😂😂
