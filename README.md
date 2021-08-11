@@ -2,7 +2,7 @@
 1. Choose Forkzilion Version:
 - [Normal](https://github.com/DunggVN/Forkzilion-Creds)
 - [SuperLight](https://github.com/DunggVN/Forkzilion-Creds/tree/pruhsuperlight)
-1. Copy that (Forkzilion-Creds Repo) repo link
+1. Copy this link: 
 2. Go to repo tab, click new
 3. Click Import, then paste link of this repo there
 4. Type the Repo Name and Choose Private Option then click Import
